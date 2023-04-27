@@ -3,6 +3,7 @@ author: F64_Rx
 version: ${project.version}
 description: allows player to see how much they have played for.
 main: me.f64.playtime.Main
+api-version: 1.19
 depend: [PlaceholderAPI]
 
 commands:
